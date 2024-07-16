@@ -16,7 +16,7 @@ License
 Clone the Repository:**
 bash
 Copy code
-git clone [https://github.com/your-username/account-interest-calculator.git](https://github.com/ilikeitrhough/customer_banking/tree/main)
+git clone https://github.com/ilikeitrhough/customer_banking
 
 **Navigate to the Project Directory:**
 bash
