@@ -22,7 +22,7 @@ def main():
 
     # Prompt the user to set the CD balance, interest rate, and months for the CD account.
     cd_balance = float(input("Enter the CD account balance: "))
-    cd_interest = float(input("Enter the annual CD interest rate (APR in %): "))
+    cd_interest = float(input("Enter the annual CD interest rate (APR %): "))
     cd_maturity = int(input("Enter the number of months for the CD account: "))
 
 
