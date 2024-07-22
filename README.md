@@ -4,15 +4,11 @@ Users input the initial balance, interest rate, and duration in months for both 
 The program computes the interest and updates the balances accordingly.
 
 ## Table of Contents
-Installation
-Usage
-Project Structure
-Functions
-Example
-Contributing
-License
+1. Installation
+2. Customer Banking System
+3. Files Description
 
-## Installation
+## 1. Installation
 Clone the Repository:**
 bash
 Copy code
@@ -32,18 +28,11 @@ Copy code
 python main.py
 Follow the prompts to enter account details. The program will display the interest earned and updated balances.
 
-# Customer Banking System
+## 2. Customer Banking System
 
 This project is a simple banking system that allows users to create savings and CD (Certificate of Deposit) accounts, calculate interest earned, and update the account balances accordingly. The system is composed of several Python files, each with a specific responsibility in the system.
 
-## Table of Contents
-1. [Files Description](#files-description)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Contributing](#contributing)
-5. [License](#license)
-
-## Files Description
+## 3. Files Description
 
 ### 1. Account.py
 Contains the `Account` class which includes methods to set the balance and interest of an account.
